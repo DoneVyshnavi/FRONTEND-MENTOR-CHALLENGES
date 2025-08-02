@@ -9,14 +9,14 @@ The designs were created to the following widths:
 
 > 💡 These are just the design sizes. Ensure content is responsive and meets WCAG requirements by testing the full range of screen sizes from 320px to large screens.
 
-## Colors
+## Colors 
 
 ### Primary
 
 - Blue 100: hsl(225, 100%, 94%)
 - Blue 700: hsl(245, 75%, 52%)
 
-### Neutral
+### Neutral 
 
 - Blue 50: hsl(225, 100%, 98%)
 - Gray 600: hsl(224, 23%, 55%)
